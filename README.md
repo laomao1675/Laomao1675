@@ -10,4 +10,4 @@
 </p>
 
 制作的项目
-[![gh](https://github-readme-stats.vercel.app/api/pin/?username=laomao1104&repo=github-readme-stats)
+[![gh](https://github-readme-stats.vercel.app/api/pin/?username=laomao1104&repo=win11c)
