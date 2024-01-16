@@ -13,5 +13,5 @@
 [![gh](https://github-readme-stats.vercel.app/api/pin/?username=laomao1104&repo=win11c)](https://github.com/laomao1104/win11c)
 
 
-[![gh2](https://github-readme-stats.vercel.app/api/pin/?username=laomao1104&repo=TV-Control)](https://github.com/Laomao1104/TV-Control)
+[![gh2_after_will_pubic](https://github-readme-stats.vercel.app/api/pin/?username=laomao1104&repo=TV-Control)](https://github.com/Laomao1104/TV-Control)
 
