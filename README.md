@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Laomao1104&langs_count=20&layout=compact&role=OWNER&theme=radical"></p>
+<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Laomao1675&langs_count=20&layout=compact&role=OWNER&theme=radical"></p>
 <p align="center">
 
   <a href="https://youtube.com/@laomao1675" target="_blank">
@@ -12,8 +12,8 @@
 </p>
 
 ## 制作的最好项目
-[![gh](https://github-readme-stats.vercel.app/api/pin/?username=laomao1104&repo=win11c)](https://github.com/laomao1104/win11c)
+[![gh](https://github-readme-stats.vercel.app/api/pin/?username=laomao1675&repo=win11c)](https://github.com/laomao1104/win11c)
 
 
-[![gh2_after_will_pubic](https://github-readme-stats.vercel.app/api/pin/?username=laomao1104&repo=TV-Control)](https://github.com/Laomao1104/TV-Control)
+[![gh2_after_will_pubic](https://github-readme-stats.vercel.app/api/pin/?username=laomao1675&repo=TV-Control)](https://github.com/Laomao1104/TV-Control)
 
